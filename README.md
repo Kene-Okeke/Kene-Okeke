@@ -27,7 +27,7 @@ I’ve worked with real businesses and built custom plugins that solve practical
 ### 💼 Projects + Portfolio
 
 - Client sites built for finance orgs, fashion brands, and nonprofits
-- Full breakdowns and screenshots at [mctech.agency](https://mctech.agency)
+  
 
 ---
 
@@ -49,5 +49,4 @@ I'm open to:
 - 🛠 Custom plugin dev / Elementor integration
 
 📧 Email me: [mctech312@gmail.com](mailto:mctech312@gmail.com)  
-🌐 Website: [www.mctech.agency](https://mctech.agency)  
 📍 Based in Accra, Ghana (GMT)
