@@ -1,52 +1,77 @@
-# 👋 Hi, I'm McDavid — WordPress Developer Specializing in Elementor & Plugin Dev
+🚀 Kene Okeke — WordPress Engineer & Full-Stack Developer
+Building production-ready web solutions that combine performance, security, and scalability.
+I specialize in custom WordPress development, e-commerce platforms, and full-stack applications using modern technologies.
 
-I build **high-performance WordPress websites** that convert, load fast, and are optimized for SEO from day one.  
-I’ve worked with real businesses and built custom plugins that solve practical problems — no fluff.
+💼 What I Do
+WordPress Engineering
 
----
+Custom WooCommerce platforms with payment gateway integration (Stripe, Flutterwave, Paystack)
+WordPress plugin development following core standards and security best practices
+Performance optimization achieving 90+ Lighthouse scores
+Complex site migrations and production deployments
+SEO-optimized builds with schema markup and Core Web Vitals compliance
 
-### ✅ What I Can Do for You
+Full-Stack Development
 
-- Build fully custom WordPress sites with Elementor (Free & Pro)
-- Fix slow websites and improve Core Web Vitals
-- Create or customize plugins to extend WordPress functionality
-- Set up WooCommerce stores that convert visitors into buyers
-- Handle migrations, backups, and remote deployments
+Modern web applications with Next.js, React, and TypeScript
+Real-time systems using Socket.IO and WebSockets
+RESTful API design and database architecture (PostgreSQL, MySQL, Prisma ORM)
+Payment integration and automated workflows
+Custom authentication systems with JWT and session management
 
----
 
-### 🔧 Real-World Plugins I’ve Built
+🛠️ Open-Source WordPress Plugins (500+ Downloads)
 
-- [Auto ALT Tag](https://github.com/Kene-Okeke/wp-auto-alt-tag) – improves SEO by filling missing image alt tags
-- [Maintenance Mode Lite](https://github.com/Kene-Okeke/wp-maintenance-mode-lite) – lightweight site lockdown
-- [Custom Admin Footer](https://github.com/Kene-Okeke/wp-admin-footer-message) – white-label admin dashboards
-- [Remove WP Version Meta](https://github.com/Kene-Okeke/wp-remove-version-meta) – basic security hardening
+Auto ALT Tag – Automated SEO tool for accessibility compliance
+Maintenance Mode Lite – Professional deployment lockdown with IP whitelisting
+Custom Admin Footer – White-label branding for agency dashboards
+Remove WP Version Meta – Security hardening plugin
 
----
 
-### 💼 Projects + Portfolio
+🎯 Featured Projects
+Production E-Commerce Platforms
 
-- Client sites built for finance orgs, fashion brands, and nonprofits
-  
+Asiwaju Herbs – Custom WooCommerce platform with dual-currency system (NGN/USD), WhatsApp integration, user profiles, and mobile-optimized checkout
+The Garden of Becoming – Digital product sales platform with custom audiobook preview player, Stripe payments, and automated delivery system
 
----
+Full-Stack Applications
 
-### 🧰 Tech Stack
+Tap Munn – Multiplayer tap-to-earn game with real-time Socket.IO infrastructure, JWT authentication, Flutterwave payment integration, and PostgreSQL database
+PHP Blog Platform – Full-featured CMS with MVC architecture, role-based access control, CRUD operations, and secure authentication
 
-- WordPress Core, Theme Dev & Plugin Dev
-- Elementor Pro, WooCommerce, ACF
-- PHP, JavaScript, HTML, CSS, React basics
-- SEO, Schema, Performance Optimization
 
----
+🔧 Technical Stack
+Languages: PHP 8+, JavaScript ES6+, HTML5, CSS3, SQL, Python, Bash
+Frameworks: React 19, Next.js 15, WordPress Core, WooCommerce, Node.js, FastAPI, Prisma ORM, Socket.IO, Framer Motion
+Tools: Git/GitHub, VS Code, Elementor Pro, Figma, Postman, cPanel, WP Engine, Chrome DevTools
+Specialties: REST API Development, JWT Authentication, Payment Gateway Integration, SEO Optimization, Performance Auditing, Agile Methodologies
 
-### 📬 Let’s Work Together
+💼 Professional Experience
+MC Tech Web Agency (Founder) — WordPress Engineer & Full-Stack Developer
+Delivered 15+ production websites with custom functionality, payment systems, and SEO optimization for international clients.
+King Games (5CA) — Customer Support Specialist
+Providing tier-2 technical support for 10M+ monthly active users, demonstrating remote work excellence and clear technical communication.
+AretéForge — Lead Software Developer
+Led full-stack development of enterprise systems using FastAPI, Next.js, and PostgreSQL, managing 4-developer teams and delivering technical documentation for stakeholders.
 
-I'm open to:
+🎓 Education & Certifications
+Bachelor of Science in Information Technology — University of Ghana
 
-- 💼 Freelance & Remote WordPress roles
-- 📩 Outsourced client work / white-label jobs
-- 🛠 Custom plugin dev / Elementor integration
+Advanced Google Data Analytics (Google/Coursera)
+Advanced WordPress Development (TemplateMonster)
+Python Programming (AlgoExpert)
 
-📧 Email me: [mctech312@gmail.com](mailto:mctech312@gmail.com)  
-📍 Based in Accra, Ghana (GMT)
+
+📬 Let's Work Together
+I'm available for:
+
+💼 Remote WordPress & Full-Stack Developer roles
+🛠️ Custom plugin development and WooCommerce solutions
+📊 Web agency partnerships and white-label development
+🚀 Full-stack application development (Next.js, React, Node.js)
+
+📧 Email: keneokeke4@gmail.com
+💼 LinkedIn: linkedin.com/in/mcdavid-okeke-5476ba28a
+📍 Location: Accra, Ghana (Remote-First, GMT)
+
+Building solutions that scale. Shipping code that matters. 🚀
