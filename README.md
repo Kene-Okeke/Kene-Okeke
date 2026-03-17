@@ -30,7 +30,7 @@ Remove WP Version Meta – Security hardening plugin
 
 🎯 Featured Projects
 Production E-Commerce Platforms
-
+(https://asiwajuherbs.com.ng/)
 Asiwaju Herbs – Custom WooCommerce platform with dual-currency system (NGN/USD), WhatsApp integration, user profiles, and mobile-optimized checkout
 The Garden of Becoming – Digital product sales platform with custom audiobook preview player, Stripe payments, and automated delivery system
 
