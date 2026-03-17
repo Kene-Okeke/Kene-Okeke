@@ -1,4 +1,4 @@
-🚀 Kene Okeke — WordPress Engineer & Full-Stack Developer
+⚫️ Kene Okeke — WordPress Engineer & Full-Stack Developer
 WordPress Engineer & Full-Stack Developer building production e-commerce platforms and scalable web applications. Specializing in custom payment integration, performance optimization, and WordPress plugin development."
 
 💼 What I Do
@@ -33,7 +33,9 @@ Production E-Commerce Platforms
 Asiwaju Herbs – Custom WooCommerce platform with dual-currency system (NGN/USD), WhatsApp integration, user profiles, and mobile-optimized checkout
 Custom WooCommerce platform with dual-currency system (NGN/USD), WhatsApp integration, and mobile-optimized checkout. 200+ orders/month, 40% revenue increase post-launch."
 
-The Garden of Becoming – Digital product sales platform with custom audiobook preview player, Stripe payments, and automated delivery system
+**[The Garden of Becoming](https://thegardenofbecoming.com)** – Digital Products E-Commerce Platform
+
+WordPress-based platform for selling e-books and audiobooks with Stripe payment integration, custom JavaScript audiobook preview player, and automated email delivery system. Built secure download link generation with expiration, purchase confirmation workflows, and customer account management. **Result: $10K+ revenue processed in first 90 days with fully automated fulfillment (zero manual intervention).**
 
 Full-Stack Applications
 
