@@ -60,9 +60,12 @@ Led full-stack development of enterprise systems using FastAPI, Next.js, and Pos
 🎓 Education & Certifications
 Bachelor of Science in Information Technology — University of Ghana
 
-Advanced Google Data Analytics (Google/Coursera)
+Advanced Google Data Analytics (Google/Coursera) - 📜 
+[Google Advanced Data Analytics Certificate](https://drive.google.com/file/d/1a0-PzON-U_Pa1DSIsFovEAOasuxBCbaC/view?usp=sharing)
+
 Advanced WordPress Development (TemplateMonster)
-Python Programming (AlgoExpert)
+
+Python Programming (AlgoExpert) - [Python Programming](https://certificate.algoexpert.io/PE-0dd0361f8b)
 
 
 📬 Let's Work Together
