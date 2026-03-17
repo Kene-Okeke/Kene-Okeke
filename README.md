@@ -1,6 +1,5 @@
 🚀 Kene Okeke — WordPress Engineer & Full-Stack Developer
-Building production-ready web solutions that combine performance, security, and scalability.
-I specialize in custom WordPress development, e-commerce platforms, and full-stack applications using modern technologies.
+WordPress Engineer & Full-Stack Developer building production e-commerce platforms and scalable web applications. Specializing in custom payment integration, performance optimization, and WordPress plugin development."
 
 💼 What I Do
 WordPress Engineering
@@ -30,8 +29,10 @@ Remove WP Version Meta – Security hardening plugin
 
 🎯 Featured Projects
 Production E-Commerce Platforms
-(https://asiwajuherbs.com.ng/)
+**[Asiwaju Herbs](https://asiwajuherbs.com.ng)** – Custom WooCommerce platform...
 Asiwaju Herbs – Custom WooCommerce platform with dual-currency system (NGN/USD), WhatsApp integration, user profiles, and mobile-optimized checkout
+Custom WooCommerce platform with dual-currency system (NGN/USD), WhatsApp integration, and mobile-optimized checkout. 200+ orders/month, 40% revenue increase post-launch."
+
 The Garden of Becoming – Digital product sales platform with custom audiobook preview player, Stripe payments, and automated delivery system
 
 Full-Stack Applications
