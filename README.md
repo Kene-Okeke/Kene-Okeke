@@ -13,11 +13,6 @@ I work primarily with **Laravel, PHP, JavaScript, React, Next.js, MySQL, and Pos
 **Database:** MySQL · PostgreSQL  
 **Other:** Git · Cloudinary · Stripe · WordPress
 
-### 🚀 Currently Building
-
-- **Shop Eleven** — Full-stack Laravel e-commerce platform
-- **Music Application** — Flutter + Laravel
-
 ### 🌐 Portfolio
 
 [kenesportfolio.vercel.app](https://kenesportfolio.vercel.app/)
