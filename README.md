@@ -19,4 +19,4 @@ I work primarily with **Laravel, PHP, JavaScript, React, Next.js, MySQL, and Pos
 
 ### 📬 Connect
 
-[LinkedIn](https://linkedin.com/in/mcdavid-okeke-5476ba28) · [Email](mailto:keneokeke4@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mcdavid-okeke-5476ba28a/) · [Email](mailto:keneokeke4@gmail.com)
