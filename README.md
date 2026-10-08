@@ -1,22 +1,26 @@
 # Kene Okeke
 
-### Full-Stack  Developer
+### Full-Stack Developer
 
-Full-Stack  Developer based in Ghana, focused on building practical, production-ready web applications.
+I build and ship practical, production-ready web applications.
 
-I work primarily with **Laravel, PHP, JavaScript, React, Next.js, MySQL, and PostgreSQL**, building responsive interfaces, REST APIs, e-commerce platforms, and database-driven applications.
+**React · Laravel · JavaScript · PHP · MySQL**
+
+### 🚀 Projects
+
+**[Recall](https://recall-1qvg.vercel.app/)** | Full-Stack Spaced Repetition App  
+React · Laravel · MySQL · Sanctum · REST API · [GitHub](https://github.com/Kene-Okeke/recall)
+
+**[Shop Eleven](https://shopeleven.store/)** | Full-Stack E-Commerce Platform  
+Laravel · PHP · MySQL · Blade · JavaScript · Cloudinary · [GitHub](YOUR_SHOP_ELEVEN_REPO_URL) · [Case Study](https://kenesportfolio.vercel.app/projects/shop-eleven)
+
+**Tap Munn** | Full-Stack Web Application  
+React · Laravel · MySQL · REST API · [GitHub](YOUR_TAP_MUNN_REPO_URL)
 
 ### 🛠️ Stack
 
-**Frontend:** React · Next.js · JavaScript · Blade · Tailwind CSS  
-**Backend:** Laravel · PHP · REST APIs  
-**Database:** MySQL · PostgreSQL  
-**Other:** Git · Cloudinary · Stripe · WordPress
+React · Next.js · JavaScript · Laravel · PHP · MySQL · PostgreSQL · Tailwind CSS · WordPress
 
-### 🌐 Portfolio
+### 🌐
 
-[kenesportfolio.vercel.app](https://kenesportfolio.vercel.app/)
-
-### 📬 Connect
-
-[LinkedIn](https://www.linkedin.com/in/mcdavid-okeke-5476ba28a/) · [Email](mailto:keneokeke4@gmail.com)
+[Portfolio](https://kenesportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mcdavid-okeke-5476ba28/) · [Email](mailto:keneokeke4@gmail.com)
