@@ -1,8 +1,8 @@
 # Kene Okeke
 
-### Full-Stack Web Developer
+### Full-Stack  Developer
 
-Full-Stack Web Developer based in Ghana, focused on building practical, production-ready web applications.
+Full-Stack  Developer based in Ghana, focused on building practical, production-ready web applications.
 
 I work primarily with **Laravel, PHP, JavaScript, React, Next.js, MySQL, and PostgreSQL**, building responsive interfaces, REST APIs, e-commerce platforms, and database-driven applications.
 
